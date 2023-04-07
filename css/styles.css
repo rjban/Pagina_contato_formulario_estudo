@@ -38,7 +38,7 @@ body {
 }
 
 #address-content h2 {
-    color: #AD0000; 
+    color: #ad0082; 
     margin-bottom: 15px;
     position: relative;
     padding-left: 40px;
@@ -104,7 +104,7 @@ body {
 }
 
 #contact-form input[type="submit"] {
-    background-color: #AD0000; 
+    background-color: #ad0082; 
     color: #FFF;
     font-size: 16px;
     font-weight: bold;
@@ -116,8 +116,8 @@ body {
 }
 
 #contact-form input[type="submit"]:hover {
-    border-color: #AD0000;
-    color: #AD0000;
+    border-color: #ad0082;
+    color: #ad0082;
     background-color: #FFF;
 }
 

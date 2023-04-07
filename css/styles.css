@@ -6,7 +6,7 @@ body {
 #main-container {
    display: flex; 
    flex-direction: row;
-   height: 100vh;
+   height: 130vh;
 }
 
 #address-container, #form-container {
@@ -32,7 +32,7 @@ body {
 
 #address-content {
     position: absolute;
-    top: 25vh;
+    top: 30vh;
     left: 35%;
     width: 300px;
 }
